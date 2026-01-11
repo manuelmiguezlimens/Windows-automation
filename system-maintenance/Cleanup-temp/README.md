@@ -75,7 +75,12 @@ Ejemplo de entrada en el log:
 
 Si quieres ver cómo funciona:
 
-[![Ver vídeo](./thumbnail.png)](./demo.mp4)
+<p style="text-align: center;">
+  <a href="./demo.mp4" style="font-size: 20px; font-weight: bold;">
+    ▶️ Ver video
+  </a>
+</p>
+
 
 El video muestra el script ejecutándose en PowerShell y eliminando archivos temporales antiguos.
 
