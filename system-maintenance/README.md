@@ -10,11 +10,9 @@ Este laboratorio es útil para administradores de sistemas que requieren automat
 
 system-maintenance/
 
-├── cleanup-temp.ps1
+├── cleanup-temp
 
-├── check-services.ps1
-
-├── disk-monitor.ps1
+├── disk-monitor
 
 └── README.md
 
