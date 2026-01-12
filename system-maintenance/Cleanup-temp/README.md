@@ -89,6 +89,7 @@ El video muestra el script ejecutándose en PowerShell y eliminando archivos tem
 ## ⚠️ Recomendaciones
 
 - Ejecutar como **Administrador**.
+- Cambiar el _ExecutionPolicy_ a _RemoteSigned_: `Set-ExecutionPolicy RemoteSigned`
 - Probar primero en un entorno de prueba para evitar eliminar archivos importantes.
 - Revisar el log después de la ejecución.
 - Puede integrarse en tareas programadas (_Task Scheduler_) para automatización regular.
@@ -98,5 +99,6 @@ El video muestra el script ejecutándose en PowerShell y eliminando archivos tem
 ## 🔗 Autor
 
 Manuel Míguez Liméns – Administrador de Sistemas / Entusiasta de Automatización
+
 
 [GitHub](https://github.com/manuelmiguezlimens) || [LinkedIn](https://www.linkedin.com/in/manuelmiguezlimens/)
