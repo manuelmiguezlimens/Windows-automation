@@ -15,6 +15,7 @@ Número de días para eliminar archivos más antiguos que este valor. Por defect
 
 # ----- Parámetro del script -----
 param(
+    [ValidateRange(1,365)]
     [int]$days = 30  # Número de días para considerar archivos antiguos
 )
 
@@ -72,5 +73,6 @@ foreach ($folder in $folders) {
 
     Write-Log "Limpieza completada en $folder" "Cyan"
 }
+
 
 Write-Log "Limpieza de archivos temporales finalizada." "Magenta"
