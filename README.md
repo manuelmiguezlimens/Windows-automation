@@ -9,6 +9,8 @@ Laboratorio personal orientado a la automatización de tareas habituales de admi
 - System Maintenance
 
   - Limpieza de archivos temporales
+  - Comprobación de espacio en disco
+  - Monitoreo de servicios
 
 ---
 
