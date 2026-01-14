@@ -57,4 +57,4 @@ Los scripts están diseñados siguiendo criterios reales:
 
 Manuel Míguez Liméns
 
-[GitHub](https://github.com/manuelmiguezlimens) || [LinkedIn](https://www.linkedin.com/in/manuelmiguezlimens/) || [Gmail](mailto:miguezlimensmanuel@gmail.com]
+[GitHub](https://github.com/manuelmiguezlimens) || [LinkedIn](https://www.linkedin.com/in/manuelmiguezlimens/) || [Gmail](mailto:miguezlimensmanuel@gmail.com)
